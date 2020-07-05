@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+`.pytest_cache
+venv/
+node_modules/
+package-lock.json
+.idea
